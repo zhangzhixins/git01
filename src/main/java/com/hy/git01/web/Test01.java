@@ -5,5 +5,6 @@ public class Test01 {
         System.out.println("git 学习");
         System.out.println("向github远程添加一个新项目");
         System.out.println("进行协作开发");
+        System.out.println("重新添加");
     }
 }
